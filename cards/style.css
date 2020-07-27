@@ -1,0 +1,49 @@
+html{
+	height:100%;
+}
+body{
+	background:url(https://images.unsplash.com/photo-1498036882173-b41c28a8ba34?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=500&q=60);
+	background-size: cover;
+	background-position: center;
+	color: white;
+	font-family: 'Alfa Slab One', cursive;
+}
+#content{
+	text-align:center;
+	margin-top:20%;
+	border: 1px solid white;
+		width:50%;
+		padding-bottom:20px;
+		margin-left: 30%;
+		background-color:  rgba(0, 0, 0, .5);
+}
+hr{
+	width:30%;
+	border-top: 1px solid rgba(66, 71, 79, .3);
+}
+body h1{
+	box-sizing: border-box;
+		color: rgb(255, 131, 115);
+		font-size:4em;
+		font-weight:800;
+		text-shadow: 2px 2px #FF0000;
+		
+		
+
+}
+body h3{
+		color: rgb(237, 193, 187);
+		font-weight: 600;
+		text-shadow: 2px 2px #FF0000;
+}
+body .navbar-inverse {
+	background-color: rgba(245, 164, 66,.7);
+}
+body .navbar-inverse .navbar-nav>li>a {
+    color: white;
+    font-weight:600 ;
+}
+body .navbar-inverse .navbar-brand {
+    color: white;
+        font-weight:700 ;
+}
